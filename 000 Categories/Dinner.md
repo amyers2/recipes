@@ -1,1 +1,1 @@
-- [Perfect Burgers](/100%20Recipe/Perfect%20Burgers.md)
+- [Perfect Burgers](/100%20Recipes/Perfect%20Burgers.md)
