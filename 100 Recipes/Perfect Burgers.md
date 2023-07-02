@@ -1,6 +1,6 @@
 ![Perfect Burger](../200\ Images/Perfect\ Burger.jpg)
 
-[Original Recipe](https://www.bonappetit.com/recipe/perfect-grass-fed-beef-burgers](https://www.blogger.com/u/1/blog/post/edit/5159006620912005705/2176955539366622442?hl=en#)
+[Original Recipe](https://www.bonappetit.com/recipe/perfect-grass-fed-beef-burgers)
 
 ## Ingredients
 
@@ -20,7 +20,7 @@
 4. With 30-40 seconds left, put cheese on top - only on burgers eaten the same day.
 5. Serve on bread.
 
-### Reheating Leftovers
+## Reheating Leftovers
 
 1. Heat up burgers in microwave until almost hot.
 2. Remove from microwave and place cheese on top.
