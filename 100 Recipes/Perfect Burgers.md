@@ -1,6 +1,6 @@
-![Perfect Burger](../200\ Images/Perfect\ Burger.jpg)
+<img src="/200%20Images/Perfect%20Burger.jpg" width="300" />
 
-[Original Recipe](https://www.bonappetit.com/recipe/perfect-grass-fed-beef-burgers)
+Source: [Original Recipe](https://www.bonappetit.com/recipe/perfect-grass-fed-beef-burgers)
 
 ## Ingredients
 
