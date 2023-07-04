@@ -8,6 +8,7 @@ Source: [Original Recipe](https://www.myketokitchen.com/keto-recipes/keto-cheesy
 
 **Serving:** 4 servings | **Cook Time:** 55 mins | **Total Time:** 55 mins
 
+---
 ## Ingredients
 
 - 1 pound of Ground Chicken

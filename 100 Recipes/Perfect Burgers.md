@@ -6,6 +6,7 @@
 
 Source: [Original Recipe](https://www.bonappetit.com/recipe/perfect-grass-fed-beef-burgers)
 
+---
 ## Ingredients
 
 - 1 lb grass-fed ground beef
@@ -24,6 +25,7 @@ Source: [Original Recipe](https://www.bonappetit.com/recipe/perfect-grass-fed-be
 4. With 30-40 seconds left, put cheese on top - only on burgers eaten the same day.
 5. Serve on bread.
 
+---
 ## Reheating Leftovers
 
 1. Heat up burgers in microwave until almost hot.

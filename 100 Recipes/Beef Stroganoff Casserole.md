@@ -29,6 +29,7 @@ Source: [Original Recipe](https://www.framedcooks.com/2012/03/beef-stroganoff-c
 5. Add cooked noodles and pepper to the skillet, stir to combine and pour the whole mixture into the prepared casserole. Sprinkle cheddar evenly on top.
 6. Bake for about 20-25 minutes until bubbling and a little browned. Cool for about 5 minutes and serve!
 
+---
 ## Notes
 
 **Ground Beef:** We like the extra flavor that you get from using 80/20 fat percentage ground beef, but you can use leaner ground beef if you like.
