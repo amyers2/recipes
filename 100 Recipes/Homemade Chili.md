@@ -4,7 +4,7 @@
 
 <img src="/200%20Images/Homemade%20Chili.jpg" width="300" />
 
-Source: [Original Recipe](www.budgetbytes.com/basic-chili)
+Source: [Original Recipe](https://www.budgetbytes.com/basic-chili/)
 
 ---
 ## Ingredients
