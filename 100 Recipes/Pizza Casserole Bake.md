@@ -6,6 +6,8 @@
 
 Source: [Original Recipe](https://kaseytrenum.com/pizza-casserole-keto-low-carb/)
 
+**Servings:** 6 | **Details:** Keto Friendly
+
 ---
 ## Ingredients
 
