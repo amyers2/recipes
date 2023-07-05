@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Categories/Sides.md",
+                "file": "000 Categories/Dinner.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Categories/Sides.md",
+                "file": "000 Categories/Dinner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Categories/Sides.md",
+                "file": "000 Categories/Dinner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Categories/Sides.md"
+                "file": "000 Categories/Dinner.md"
               }
             }
           }
@@ -148,14 +148,15 @@
   },
   "active": "768bb8014b0bc694",
   "lastOpenFiles": [
+    "100 Recipes/White Gravy.md",
+    "100 Recipes/Healthy Garlic Bread.md",
+    "000 Categories/Sides.md",
     "100 Recipes/Cinnamon Honey Butter.md",
     "100 Recipes/Perfect Burgers.md",
     "100 Recipes/Homemade Chili.md",
     "100 Recipes/Cheesecake.md",
     "100 Recipes/Beef Stroganoff Casserole.md",
-    "100 Recipes/Healthy Garlic Bread.md",
     "README.md",
-    "000 Categories/Sides.md",
     "000 Categories/Dinner.md",
     "www.budgetbytes.com",
     "200 Images/Fallen Out of the Sex Industry  Into the Arms of the Savior - Annie Lobert  A. J. Gregory.epub",
