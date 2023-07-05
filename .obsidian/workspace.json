@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Categories/Snacks.md",
+                "file": "000 Categories/Desserts.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Categories/Snacks.md",
+                "file": "000 Categories/Desserts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Categories/Snacks.md",
+                "file": "000 Categories/Desserts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Categories/Snacks.md"
+                "file": "000 Categories/Desserts.md"
               }
             }
           }
@@ -160,21 +160,23 @@
   },
   "active": "823a4b889bfd062f",
   "lastOpenFiles": [
+    "100 Recipes/Baked Cheesecake.md",
+    "000 Categories/Desserts.md",
+    "000 Categories/Dinner.md",
+    "000 Categories/Sides.md",
+    "000 Categories/Snacks.md",
     "README.md",
     "100 Recipes/Roasted Almonds.md",
     "100 Recipes/Homemade Chili.md",
     "100 Recipes/Pizza Casserole Bake.md",
-    "000 Categories/Snacks.md",
     "100 Recipes/Homemade Popcorn.md",
     "100 Recipes/White Gravy.md",
     "100 Recipes/Cinnamon Honey Butter.md",
     "100 Recipes/Perfect Burgers 1.md",
-    "000 Categories/Sides.md",
     "100 Recipes/Healthy Garlic Bread.md",
     "100 Recipes/Cheesecake.md",
     "www.budgetbytes.com/basic-chili.md",
     "www.budgetbytes.com",
-    "000 Categories/Dinner.md",
     "100 Recipes/Beef Stroganoff Casserole.md",
     "100 Recipes/Cheesy Chicken Meatloaf.md",
     "100 Recipes/Perfect Burgers.md"
