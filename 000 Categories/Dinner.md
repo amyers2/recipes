@@ -8,4 +8,5 @@
 - [Cheesy Chicken Meatloaf](/100%20Recipes/Cheesy%20Chicken%20Meatloaf.md)
 - [Homemade Chili](/100%20Recipes/Homemade%20Chili.md)
 - [Perfect Burgers](/100%20Recipes/Perfect%20Burgers.md)
+- [Pizza Casserole Bake](/100%20Recipes/Pizza%20Casserole%20Bake.md)
 - [White Gravy](/100%20Recipes/White%20Gravy.md)
