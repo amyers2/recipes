@@ -11,7 +11,7 @@
 ## Recipe Links to Try
 
 Apple Bread
-- [Baked Apples #3 - no added sugar](https://thebakermama.com/recipes/healthy-flourless-fresh-apple-bread/)
+- [Flourless Apple Bread - no added sugar](https://thebakermama.com/recipes/healthy-flourless-fresh-apple-bread/)
 
 Baked Apples
 - [Baked Apples #1](https://www.allrecipes.com/recipe/255931/baked-cinnamon-apples/)
