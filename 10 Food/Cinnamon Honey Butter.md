@@ -2,7 +2,7 @@
 
 ---
 
-<img src="/200%20Images/Cinnamon%20Honey%20Butter.png" width="300" />
+<img src="/90%20Images/Cinnamon%20Honey%20Butter.png" width="300" />
 
 Source: *Unknown*
 

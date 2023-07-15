@@ -2,7 +2,7 @@
 
 ---
 
-<img src="/200%20Images/Baked%20Cheesecake.png" width="300" />
+<img src="/90%20Images/Baked%20Cheesecake.png" width="300" />
 
 Source: *Not sure*
 

@@ -2,7 +2,7 @@
 
 ---
 
-<img src="/200%20Images/Beef%20Stroganoff%20Casserole.png" width="300" />
+<img src="/90%20Images/Beef%20Stroganoff%20Casserole.png" width="300" />
 
 Source: [Original Recipe](https://www.framedcooks.com/2012/03/beef-stroganoff-casserole.html)
 

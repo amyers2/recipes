@@ -2,7 +2,7 @@
 
 ---
 
-<img src="/200%20Images/Healthy%20Garlic%20Bread.png" width="300" />
+<img src="/90%20Images/Healthy%20Garlic%20Bread.png" width="300" />
 
 Source: [Original Recipe](https://garlicdelight.com/5-minute-garlic-powder-bread/)
 

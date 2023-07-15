@@ -2,7 +2,7 @@
 
 ---
 
-<img src="/200%20Images/Roasted%20Almonds.jpg" width="300" />
+<img src="/90%20Images/Roasted%20Almonds.jpg" width="300" />
 
 Source: [Original Recipe](https://anoregoncottage.com/perfectly-salted-diy-roasted-almonds/2/)
 

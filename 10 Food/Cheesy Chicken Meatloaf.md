@@ -2,7 +2,7 @@
 
 ---
 
-<img src="/200%20Images/Cheesy%20Chicken%20Meatloaf.png" width="300" />
+<img src="/90%20Images/Cheesy%20Chicken%20Meatloaf.png" width="300" />
 
 Source: [Original Recipe](https://www.myketokitchen.com/keto-recipes/keto-cheesy-chicken-meatloaf/)
 

@@ -2,7 +2,7 @@
 
 ---
 
-<img src="/200%20Images/White%20Gravy.png" width="300" />
+<img src="/90%20Images/White%20Gravy.png" width="300" />
 
 Source: *Anthony's Mom* (modified)
 

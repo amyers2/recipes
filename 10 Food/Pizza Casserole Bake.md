@@ -2,7 +2,7 @@
 
 ---
 
-<img src="/200%20Images/Pizza%20Casserole%20Bake.jpg" width="300" />
+<img src="/90%20Images/Pizza%20Casserole%20Bake.jpg" width="300" />
 
 Source: [Original Recipe](https://kaseytrenum.com/pizza-casserole-keto-low-carb/)
 

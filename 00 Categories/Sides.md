@@ -3,9 +3,9 @@
 ---
 ## Sides Recipes
 
-- [Cinnamon Honey Butter](/100%20Recipes/Cinnamon%20Honey%20Butter.md)
-- [Green Bean Casserole](/100%20Recipes/Green%20Bean%20Casserole.md)
-- [Healthy Garlic Bread](/100%20Recipes/Healthy%20Garlic%20Bread.md)
+- [Cinnamon Honey Butter](/10%20Food/Cinnamon%20Honey%20Butter.md)
+- [Green Bean Casserole](/10%20Food/Green%20Bean%20Casserole.md)
+- [Healthy Garlic Bread](/10%20Food/Healthy%20Garlic%20Bread.md)
 
 ---
 ## Recipe Links to Try

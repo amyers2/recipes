@@ -2,7 +2,7 @@
 
 ---
 
-<img src="/200%20Images/Green%20Bean%20Casserole.png" width="300" />
+<img src="/90%20Images/Green%20Bean%20Casserole.png" width="300" />
 
 Source: Phyllis
 

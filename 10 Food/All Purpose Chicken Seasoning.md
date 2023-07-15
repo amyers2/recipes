@@ -2,7 +2,7 @@
 
 ---
 
-<img src="/200%20Images/All%20Purpose%20Chicken%20Seasoning.png" width="300" />
+<img src="/90%20Images/All%20Purpose%20Chicken%20Seasoning.png" width="300" />
 
 Source: [Original Recipe](https://www.dashofsanity.com/all-purpose-chicken-seasoning/)
 

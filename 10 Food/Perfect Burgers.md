@@ -2,7 +2,7 @@
 
 ---
 
-<img src="/200%20Images/Perfect%20Burger.jpg" width="300" />
+<img src="/90%20Images/Perfect%20Burger.jpg" width="300" />
 
 Source: [Original Recipe](https://www.bonappetit.com/recipe/perfect-grass-fed-beef-burgers)
 

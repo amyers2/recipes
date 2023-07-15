@@ -1,7 +1,10 @@
-This repository contains a collection of our favorite recipes.
+This repository contains a collection of our favorite recipes, both food and non-food things.
 
-- [Desserts](/000%20Categories/Desserts.md)
-- [Dinner](/000%20Categories/Dinner.md)
-- [Seasonings](/000%20Categories/Seasonings.md)
-- [Sides](/000%20Categories/Sides.md)
-- [Snacks](/000%20Categories/Snacks.md)
+Food
+- [Desserts](/00%20Categories/Desserts.md)
+- [Dinner](/00%20Categories/Dinner.md)
+- [Seasonings](/00%20Categories/Seasonings.md)
+- [Sides](/00%20Categories/Sides.md)
+- [Snacks](/00%20Categories/Snacks.md)
+
+[Cleaning](/00%20Categories/Cleaning.md)
