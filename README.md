@@ -7,4 +7,5 @@ Food
 - [Sides](/00%20Categories/Sides.md)
 - [Snacks](/00%20Categories/Snacks.md)
 
-[Cleaning](/00%20Categories/Cleaning.md)
+Other
+- [Cleaning](/00%20Categories/Cleaning.md)
