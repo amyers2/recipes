@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Categories/Seasonings.md",
+                "file": "00 Categories/Sides.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Categories/Seasonings.md",
+                "file": "00 Categories/Sides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Categories/Seasonings.md",
+                "file": "00 Categories/Sides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Categories/Seasonings.md"
+                "file": "00 Categories/Sides.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "823a4b889bfd062f",
   "lastOpenFiles": [
-    "00 Categories/Sides.md",
-    "00 Categories/Seasonings.md",
+    "10 Food/Broccoli Casserole.md",
     "10 Food/Homemade Mayo.md",
+    "00 Categories/Sides.md",
+    "10 Food/Cheesecake.md",
+    "10 Food/Beef Stroganoff Casserole.md",
+    "00 Categories/Seasonings.md",
     "10 Food/Baked Cheesecake.md",
     "00 Categories/Dinner.md",
     "daily notes.md",
@@ -181,9 +184,6 @@
     "10 Food/Homemade Chili.md",
     "90 Images/Broccoli Cheese Casserole.jpg",
     "10 Food/Roasted Almonds.md",
-    "00 Categories/Snacks.md",
-    "10 Food/Beef Stroganoff Casserole.md",
-    "10 Food/Cheesecake.md",
     "90 Images/Recipe Images-001.zip",
     "90 Images",
     "30 Insecticides",

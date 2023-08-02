@@ -3,6 +3,7 @@
 ---
 ## Sides Recipes
 
+- [Broccoli Casserole](/10%20Food/Broccoli%20Casserole.md)
 - [Cinnamon Honey Butter](/10%20Food/Cinnamon%20Honey%20Butter.md)
 - [Green Bean Casserole](/10%20Food/Green%20Bean%20Casserole.md)
 - [Healthy Garlic Bread](/10%20Food/Healthy%20Garlic%20Bread.md)
