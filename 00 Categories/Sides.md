@@ -16,3 +16,6 @@ Apple Bread
 Baked Apples
 - [Baked Apples #1](https://www.allrecipes.com/recipe/255931/baked-cinnamon-apples/)
 - [Baked Apples #2 - no added sugar](https://happyhealthymama.com/simple-baked-apples.html)
+
+Potatoes
+- [Taco Bell's Cheesy Fiesta Potato](https://copykat.com/taco-bell-cheesy-fiesta-potatoes)
