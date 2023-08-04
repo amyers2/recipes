@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Categories/Sides.md",
+                "file": "00 Categories/Seasonings.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Categories/Sides.md",
+                "file": "00 Categories/Seasonings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Categories/Sides.md",
+                "file": "00 Categories/Seasonings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Categories/Sides.md"
+                "file": "00 Categories/Seasonings.md"
               }
             }
           }
@@ -148,17 +148,20 @@
   },
   "active": "823a4b889bfd062f",
   "lastOpenFiles": [
+    "10 Food/Chicken Seasoning.md",
+    "10 Food/Taco Seasoning.md",
+    "10 Food/All Purpose Chicken Seasoning.md",
+    "00 Categories/Seasonings.md",
+    "00 Categories/Snacks.md",
+    "00 Categories/Sides.md",
     "10 Food/Broccoli Casserole.md",
     "10 Food/Homemade Mayo.md",
-    "00 Categories/Sides.md",
     "10 Food/Cheesecake.md",
     "10 Food/Beef Stroganoff Casserole.md",
-    "00 Categories/Seasonings.md",
     "10 Food/Baked Cheesecake.md",
     "00 Categories/Dinner.md",
     "daily notes.md",
     "00 Categories/Cleaning.md",
-    "10 Food/All Purpose Chicken Seasoning.md",
     "20 Cleaning/Member's Mark Heavy Duty Degreaser.md",
     "README.md",
     "000 Categories/Sides.md",
@@ -180,10 +183,7 @@
     "90 Images/Baked Cheesecake.png",
     "20 Cleaning/Copper Pipe Corrosion.md",
     "10 Food/Pizza Casserole Bake.md",
-    "10 Food/Cheesy Chicken Meatloaf.md",
-    "10 Food/Homemade Chili.md",
     "90 Images/Broccoli Cheese Casserole.jpg",
-    "10 Food/Roasted Almonds.md",
     "90 Images/Recipe Images-001.zip",
     "90 Images",
     "30 Insecticides",
