@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "00 Categories/Drinks and Shakes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "00 Categories/Drinks and Shakes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "00 Categories/Drinks and Shakes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "00 Categories/Drinks and Shakes.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "823a4b889bfd062f",
   "lastOpenFiles": [
+    "10 Food/Peanut Butter Shake.md",
+    "00 Categories/Drinks and Shakes.md",
     "10 Food/PB Oatmeal Shake.md",
-    "00 Categories/Drinks.md",
     "README.md",
+    "00 Categories/Dinner.md",
     "10 Food/Homemade Popcorn.md",
     "10 Food/Baked Cheesecake.md",
     "10 Food/Beef Stroganoff Casserole.md",
@@ -165,7 +167,6 @@
     "10 Food/Broccoli Casserole.md",
     "10 Food/Homemade Mayo.md",
     "10 Food/Cheesecake.md",
-    "00 Categories/Dinner.md",
     "daily notes.md",
     "00 Categories/Cleaning.md",
     "20 Cleaning/Member's Mark Heavy Duty Degreaser.md",
@@ -178,7 +179,6 @@
     "10 Food/Cinnamon Honey Butter.md",
     "20 Cleaning/Garbage Disposal Cleaning.md",
     "10 Food/Healthy Garlic Bread.md",
-    "20 Cleaning/Carpet Spot Cleaning.md",
     "90 Images/Cheesecake.jpg",
     "90 Images/Spiced Black Beans.jpg",
     "90 Images/White Gravy.png",
