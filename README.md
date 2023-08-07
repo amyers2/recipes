@@ -3,6 +3,7 @@ This repository contains a collection of our favorite recipes, both food and non
 Food
 - [Desserts](/00%20Categories/Desserts.md)
 - [Dinner](/00%20Categories/Dinner.md)
+- [Drinks](/00%20Categories/Drinks.md)
 - [Seasonings](/00%20Categories/Seasonings.md)
 - [Sides](/00%20Categories/Sides.md)
 - [Snacks](/00%20Categories/Snacks.md)
