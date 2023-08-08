@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Categories/Drinks and Shakes.md",
+                "file": "10 Food/No-Crust Cheesecake.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Categories/Drinks and Shakes.md",
+                "file": "10 Food/No-Crust Cheesecake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Categories/Drinks and Shakes.md",
+                "file": "10 Food/No-Crust Cheesecake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Categories/Drinks and Shakes.md"
+                "file": "10 Food/No-Crust Cheesecake.md"
               }
             }
           }
@@ -148,16 +148,19 @@
   },
   "active": "823a4b889bfd062f",
   "lastOpenFiles": [
-    "10 Food/Peanut Butter Shake.md",
+    "00 Categories/Desserts.md",
+    "10 Food/No Crust Cheesecake.md",
+    "10 Food/No-Crust Cheesecake.md",
+    "90 Images/No Crust Cheesecake.png",
+    "10 Food/Perfect Burgers.md",
     "00 Categories/Drinks and Shakes.md",
+    "10 Food/Peanut Butter Shake.md",
     "10 Food/PB Oatmeal Shake.md",
     "README.md",
     "00 Categories/Dinner.md",
     "10 Food/Homemade Popcorn.md",
     "10 Food/Baked Cheesecake.md",
     "10 Food/Beef Stroganoff Casserole.md",
-    "10 Food/Perfect Burgers.md",
-    "00 Categories/Desserts.md",
     "00 Categories/Seasonings.md",
     "10 Food/Chicken Seasoning.md",
     "10 Food/Taco Seasoning.md",
@@ -177,13 +180,10 @@
     "90 Images/Homemade Mayo.png",
     "90 Images/Perfect Burger.jpg",
     "10 Food/Cinnamon Honey Butter.md",
-    "20 Cleaning/Garbage Disposal Cleaning.md",
-    "10 Food/Healthy Garlic Bread.md",
     "90 Images/Cheesecake.jpg",
     "90 Images/Spiced Black Beans.jpg",
     "90 Images/White Gravy.png",
     "90 Images/Baked Cheesecake.png",
-    "90 Images/Broccoli Cheese Casserole.jpg",
     "90 Images/Recipe Images-001.zip",
     "90 Images",
     "30 Insecticides",
