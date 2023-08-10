@@ -4,7 +4,7 @@
 
 <img src="/90%20Images/Hot%20Cocoa.jpg" width="300" />
 
-Source: [Original Recipe](https://www.food.com/recipe/easy-hot-cocoa-microwave-454195 | https://www.girlgonegourmet.com/quick-easy-hot-chocolate/)
+Source: [Site 1](https://www.food.com/recipe/easy-hot-cocoa-microwave-454195) | [Site 2](https://www.girlgonegourmet.com/quick-easy-hot-chocolate/)
 
 **Serving size:** Recipe is for a single 8 oz.  Double for two.
 
