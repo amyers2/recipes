@@ -8,4 +8,10 @@
 - [Homemade Chili](/10%20Food/Homemade%20Chili.md)
 - [Perfect Burgers](/10%20Food/Perfect%20Burgers.md)
 - [Pizza Casserole Bake](/10%20Food/Pizza%20Casserole%20Bake.md)
+- [Potato Soup](/10%20Food/Potato%20Soup.md)
 - [White Gravy](/10%20Food/White%20Gravy.md)
+
+---
+## Recipes to Try
+
+[Chicken Fettuccine Alfredo](https://healthyfitnessmeals.com/chicken-fettuccine-alfredo/#recipe)
