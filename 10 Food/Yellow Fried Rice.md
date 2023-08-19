@@ -2,7 +2,7 @@
 
 ---
 
-<img src="/90%20Images/Yellow%20Fried%20Rice.png" width="300" />
+<img src="/90%20Images/Yellow%20Fried%20Rice.jpg" width="300" />
 
 Source: [Original Recipe](https://www.youtube.com/watch?v=SgjWsa7Wcws)
 
