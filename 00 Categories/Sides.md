@@ -7,6 +7,7 @@
 - [Cinnamon Honey Butter](/10%20Food/Cinnamon%20Honey%20Butter.md)
 - [Green Bean Casserole](/10%20Food/Green%20Bean%20Casserole.md)
 - [Healthy Garlic Bread](/10%20Food/Healthy%20Garlic%20Bread.md)
+- [Spiced Black Beans](/10%20Food/Spiced%20Black%20Beans.md)
 - [White Rice](/10%20Food/White%20Rice.md)
 - [Yellow Fried Rice](/10%20Food/Yellow%20Fried%20Rice.md)
 
