@@ -1,6 +1,7 @@
 This repository contains a collection of our favorite recipes, both food and non-food things.
 
 Food
+- [Breakfast](/00%20Categories/Breakfast.md)
 - [Desserts](/00%20Categories/Desserts.md)
 - [Dinner](/00%20Categories/Dinner.md)
 - [Drinks and Shakes](/00%20Categories/Drinks%20and%20Shakes.md)
