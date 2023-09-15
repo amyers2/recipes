@@ -8,3 +8,4 @@
 - [Garbage Disposal Cleaning](/20%20Cleaning/Garbage%20Disposal%20Cleaning.md)
 - [Jewelry Cleaner](/20%20Cleaning/Jewelry%20Cleaner.md)
 - [Member's Mark Heavy Duty Degreaser](/20%20Cleaning/Member%27s%20Mark%20Heavy%20Duty%20Degreaser.md)
+- [Microfiber Towels](/20%20Cleaning/Microfiber%20Towels.md)
