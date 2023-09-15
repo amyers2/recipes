@@ -1,5 +1,9 @@
 [Back to Main](/README.md)
 
+---
+
+<img src="/90%20Images/Microfiber%20Towels.png" width="300" />
+
 Source: [Instructions](https://www.microfiberwholesale.com/blogs/blog/how-to-wash-microfiber#erid3538427)
 
 ---
