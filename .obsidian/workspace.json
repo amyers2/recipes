@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "49b5f5abeff72a4c",
+        "id": "2701edef84021dff",
         "type": "tabs",
         "children": [
           {
-            "id": "823a4b889bfd062f",
+            "id": "3b67ccd49201d2e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 Food/No-Crust Cheesecake.md",
+                "file": "00 Categories/Seasonings.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Food/No-Crust Cheesecake.md",
+                "file": "00 Categories/Seasonings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "10 Food/No-Crust Cheesecake.md",
+                "file": "00 Categories/Seasonings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 Food/No-Crust Cheesecake.md"
+                "file": "00 Categories/Seasonings.md"
+              }
+            }
+          },
+          {
+            "id": "ab057da4e078042b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -133,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,44 +155,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "823a4b889bfd062f",
+  "active": "3b67ccd49201d2e9",
   "lastOpenFiles": [
-    "00 Categories/Desserts.md",
-    "10 Food/No Crust Cheesecake.md",
-    "10 Food/No-Crust Cheesecake.md",
-    "90 Images/No Crust Cheesecake.png",
-    "10 Food/Perfect Burgers.md",
-    "00 Categories/Drinks and Shakes.md",
-    "10 Food/Peanut Butter Shake.md",
-    "10 Food/PB Oatmeal Shake.md",
-    "README.md",
-    "00 Categories/Dinner.md",
-    "10 Food/Homemade Popcorn.md",
-    "10 Food/Baked Cheesecake.md",
-    "10 Food/Beef Stroganoff Casserole.md",
-    "00 Categories/Seasonings.md",
-    "10 Food/Chicken Seasoning.md",
-    "10 Food/Taco Seasoning.md",
+    "10 Food/Texas Roadhouse Fry Seasoning.md",
+    "90 Images/Texas Roadhouse Fry Seasoning.png",
     "10 Food/All Purpose Chicken Seasoning.md",
-    "00 Categories/Snacks.md",
-    "00 Categories/Sides.md",
-    "10 Food/Broccoli Casserole.md",
-    "10 Food/Homemade Mayo.md",
-    "10 Food/Cheesecake.md",
-    "daily notes.md",
+    "20 Cleaning/Microfiber Towels.md",
+    "90 Images/Microfiber Towels.png",
     "00 Categories/Cleaning.md",
+    "20 Cleaning/Carpet Spot Cleaning.md",
     "20 Cleaning/Member's Mark Heavy Duty Degreaser.md",
-    "000 Categories/Sides.md",
+    "20 Cleaning/Jewelry Cleaner.md",
+    "20 Cleaning/Garbage Disposal Cleaning.md",
+    "20 Cleaning/Copper Pipe Corrosion.md",
+    "10 Food/Pizza Casserole Bake.md",
+    "10 Food/PB No Bake Cookies.md",
+    "00 Categories/Desserts.md",
+    "10 Food/PB Choc Chip Muffins.md",
+    "10 Food/Basic Oatmeal.md",
+    "10 Food/No-Crust Cheesecake.md",
+    "10 Food/Banana Bread.md",
+    "10 Food/Baked Cheesecake.md",
+    "10 Food/French Toast.md",
+    "00 Categories/Breakfast.md",
+    "10 Food/Healthy Pancakes.md",
+    "00 Categories/Sides.md",
+    "90 Images/Healthy Pancakes.png",
+    "10 Food/Meat and Cheese Dip 1.md",
+    "10 Food/Spiced Black Beans.md",
+    "90 Images/White Gravy.png",
+    "10 Food/Yellow Fried Rice.md",
+    "10 Food/White Rice.md",
+    "90 Images/No Crust Cheesecake.png",
     "90 Images/Peanut Butter Shake.jpg",
     "90 Images/Potato Soup.jpg",
     "90 Images/Basic Oatmeal.jpg",
     "90 Images/Homemade Mayo.png",
     "90 Images/Perfect Burger.jpg",
-    "10 Food/Cinnamon Honey Butter.md",
-    "90 Images/Cheesecake.jpg",
-    "90 Images/Spiced Black Beans.jpg",
-    "90 Images/White Gravy.png",
-    "90 Images/Baked Cheesecake.png",
     "90 Images/Recipe Images-001.zip",
     "90 Images",
     "30 Insecticides",
