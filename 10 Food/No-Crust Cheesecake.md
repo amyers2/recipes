@@ -15,6 +15,9 @@ Source: [Original Recipe](https://www.myfoodandfamily.com/member-recipe/00131423
 - 2 tsp vanilla or almond extract, divided
 - 1 cup sour cream
 
+***Optional** - for chocolate cheesecake:*
+- 2/3 cup cocoa powder (1:1 ratio with sugar)
+
 ## Instructions
 
 1. Preheat oven to 350 degrees F. Butter an 8" pie pan or round cake pan.
