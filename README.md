@@ -14,6 +14,11 @@ Other
 - [Insecticides](/00%20Categories/Insecticides.md)
 
 ---
-## References
+## Useful Links
 
 [Yummly](https://www.yummly.com/)
+
+Laura Kurella
+- Award-winning home cook
+- [Magazines](https://issuu.com/swmspark.com/docs/spark-january_20230123-web)
+- email: [laurakurella@yahoo.com](mailto:laurakurella@yahoo.com)
