@@ -3,6 +3,7 @@
 ---
 ## Dinner Recipes
 
+- [Baked Chicken Breast](/10%20Food/Baked%20Chicken%20Breast.md)
 - [Beef Stroganoff Casserole](/10%20Food/Beef%20Stroganoff%20Casserole.md)
 - [Cheesy Chicken Meatloaf](/10%20Food/Cheesy%20Chicken%20Meatloaf.md)
 - [Homemade Chili](/10%20Food/Homemade%20Chili.md)
