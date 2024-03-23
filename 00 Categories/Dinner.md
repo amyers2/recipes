@@ -19,3 +19,5 @@
 ## Recipes to Try
 
 [Chicken Fettuccine Alfredo](https://healthyfitnessmeals.com/chicken-fettuccine-alfredo/#recipe)
+[Garlic Cheddar Chicken Strips](https://www.theidearoom.net/garlic-cheddar-chicken-strips)
+
