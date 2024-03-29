@@ -21,3 +21,13 @@ Source: [Original Recipe](https://insanelygoodrecipes.com/baked-chicken-breast/)
 4. Place the breasts in the prepared baking sheet.
 5. Bake for 20-25 minutes, until chicken reaches internal temp of 160 deg.
 6. Let the chicken rest for 5 minutes.  Int. temperature will rise to 165 in this time.
+
+## Reheating the Chicken
+
+If made with rice:
+
+1. Place a 1/4 chicken breast on a plate, along with a helping of rice.
+2. Put two splashes of water on the rice.
+3. Drizzle a tad bit of olive oil on the chicken.
+4. Place the plate in the microwave, and cover (to help it steam).
+5. Microwave on high (1000W) for 1:45.

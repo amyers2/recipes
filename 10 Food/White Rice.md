@@ -11,7 +11,8 @@ Source: *Unknown*
 
 - 1 cup of white rice, washed (Jasmine maybe)
 - ½ tsp salt (heaping)
-- 1.5 cups water (1:1.5 rice to water ratio)
+- 1.75 cups water (1:1.75 rice to water ratio)
+  (*This ratio seems to help make the rice a bit stickier.*)
 - Avocado oil (maybe 1 tsp)
 - Vegetables as desired
 
