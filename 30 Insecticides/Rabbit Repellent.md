@@ -13,4 +13,8 @@ Source: [Premedidated Leftovers](https://premeditatedleftovers.com/gardening/ine
 
 ## Directions
 
+1. To make the repellent fill an old milk jug with water, add 5 crushed garlic cloves, a teaspoon of crushed red peppers (you can save a packet from the pizza delivery) and 1 tablespoon of dish soap.
+2. Shake well; then let it sit in the sun for a day or two to ensure the water is saturated with the flavors and smells.
+3. Shake well, then spray or pour the deterrent on the plants you don’t want the rabbits to eat.
+
 Once you mix the ingredients, let it sit for at least 6 hours in the sun before applying it to plants. Use this organic rabbit-repellent recipe to deter rabbits from eating your flowers. Reapply after a rain.
