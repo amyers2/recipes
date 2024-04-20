@@ -8,7 +8,7 @@ Food
 - [Seasonings](/00%20Categories/Seasonings.md)
 - [Sides](/00%20Categories/Sides.md)
 - [Snacks](/00%20Categories/Snacks.md)
-- ~[Haven't Tried Yet](/00%20Categories/Haven%27t%20Tried%20Yet.md)~
+- [\~Haven't Tried Yet\~](/00%20Categories/Haven%27t%20Tried%20Yet.md)
 
 Other
 - [Cleaning](/00%20Categories/Cleaning.md)
