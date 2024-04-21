@@ -15,9 +15,4 @@
 - [Taco Pie](/10%20Food/Taco%20Pie.md)
 - [White Gravy](/10%20Food/White%20Gravy.md)
 
----
-## Recipes to Try
-
-[Chicken Fettuccine Alfredo](https://healthyfitnessmeals.com/chicken-fettuccine-alfredo/#recipe)
-[Garlic Cheddar Chicken Strips](https://www.theidearoom.net/garlic-cheddar-chicken-strips)
 

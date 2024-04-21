@@ -9,7 +9,5 @@
 - [Sodabread Scones](/10%20Food/Sodabread%20Scones.md)
 - [Vegan Brownies](/10%20Food/Vegan%20Brownies.md)
 
----
-## Recipes to Try
 
-[Perfect Brownies](https://lickthebowlgood.blogspot.com/2013/02/the-perfect-brownie.html)
+
