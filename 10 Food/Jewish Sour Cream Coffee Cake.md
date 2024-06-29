@@ -5,6 +5,7 @@
 <img src="/90%20Images/Jewish%20Sour%20Cream%20Coffee%20Cake.png" width="300"/>
 
 Source: *Unknown*
+
 Alternate: [My Jewish Learning](https://www.myjewishlearning.com/recipe/jewish-coffee-cake/)
 
 ---
