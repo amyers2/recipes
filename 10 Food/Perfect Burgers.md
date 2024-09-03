@@ -17,7 +17,16 @@ Source: [Original Recipe](https://www.bonappetit.com/recipe/perfect-grass-fed-be
 - Olive oil (for cooking, just a little bit)
 - Sprouted bread (for buns, toasted)
 
-## Instructions
+## New Instructions
+
+1. Make patties with just the meat, very flat and wide.
+2. Add spices to the top and bottom of the burger.
+3. Place on pan as its heating up.
+4. Make sure to flip the first time early, just to get both sides cooked early on.
+5. Then, flip burger every minute or two, covering the pan to hold the heat in, repeating until internal temp is about 165.
+6. On the final flip, top with cheese, cover for 30 seconds to a minute, then take off the pan.
+
+## Old Instructions
 
 1. Mix ingredients in a bowl.
 2. Make four patties, very flat and wide.

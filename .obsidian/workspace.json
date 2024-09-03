@@ -1,14 +1,26 @@
 {
   "main": {
-    "id": "171fe2832327bf42",
+    "id": "dd3bbd6fc5df7441",
     "type": "split",
     "children": [
       {
-        "id": "2701edef84021dff",
+        "id": "338a516324b48526",
         "type": "tabs",
         "children": [
           {
-            "id": "3b67ccd49201d2e9",
+            "id": "bf20a290fe6367b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20 Cleaning/Laundry Tips.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63c8f352b31cc8a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,22 +30,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "38765cd4f9abd72f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 Food/Perfect Burgers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "05d9773306e76d84",
+    "id": "c5a177e2d3ed3180",
     "type": "split",
     "children": [
       {
-        "id": "a192c32351b9da47",
+        "id": "1a6e3067fd899634",
         "type": "tabs",
         "children": [
           {
-            "id": "dc9a6948154cbbf5",
+            "id": "5ed951b02e6b7cd2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +68,7 @@
             }
           },
           {
-            "id": "9a1d6e4afbc1492b",
+            "id": "0b392e35076bc955",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +83,7 @@
             }
           },
           {
-            "id": "3d81b9fb5a6e3673",
+            "id": "1246a819557aa083",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +94,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249.5
   },
   "right": {
-    "id": "7eb8354bf1c70cb5",
+    "id": "5ea862fa5e93a56e",
     "type": "split",
     "children": [
       {
-        "id": "fc35c5679069e9ba",
+        "id": "c67375fda8f5e5cd",
         "type": "tabs",
         "children": [
           {
-            "id": "d1f0fdac89bdbb89",
+            "id": "e9aa8f41fbc3724e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "10 Food/Perfect Burgers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +122,19 @@
             }
           },
           {
-            "id": "492b93bb7ed1f221",
+            "id": "5c0a31b5e9d3e823",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "10 Food/Perfect Burgers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "cb0f5a2e487862c7",
+            "id": "93cd7d98631e2276",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +145,17 @@
             }
           },
           {
-            "id": "23e66790c889ff86",
+            "id": "fe4fedaed2feb9b4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "10 Food/Perfect Burgers.md"
               }
             }
           },
           {
-            "id": "ab057da4e078042b",
+            "id": "c9d747b492ec485a",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -141,12 +166,12 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,50 +183,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b67ccd49201d2e9",
+  "active": "38765cd4f9abd72f",
   "lastOpenFiles": [
+    "README.md",
     "00 Categories/Haven't Tried Yet.md",
-    "00 Categories/Snacks.md",
-    "00 Categories/Sides.md",
-    "00 Categories/Seasonings.md",
-    "00 Categories/Insecticides.md",
-    "00 Categories/Drinks and Shakes.md",
     "00 Categories/Dinner.md",
     "00 Categories/Desserts.md",
-    "00 Categories/Cleaning.md",
-    "00 Categories/Breakfast.md",
-    "10 Food/Cheesy Taco Cream Cheese Pasta.md",
-    "10 Food/Cheesy Chicken Meatloaf.md",
-    "90 Images/Cheesy Taco Cream Cheese Pasta.png",
-    "10 Food/Bacon Cheeseburger Bombs.md",
-    "README.md",
-    "10 Food/Homemade Chili.md",
-    "10 Food/Meat and Cheese Dip.md",
-    "10 Food/Lasagna Bake.md",
-    "10 Food/Homemade Popcorn.md",
-    "10 Food/Homemade Larabars.md",
-    "10 Food/Healthy Garlic Bread.md",
-    "10 Food/Green Bean Casserole.md",
-    "10 Food/French Toast.md",
-    "10 Food/Chicken Seasoning.md",
-    "10 Food/Basic Oatmeal.md",
-    "10 Food/Baked Chicken Breast.md",
-    "90 Images/Bacon Cheeseburger Bombs.png",
+    "90 Images/Becky Lynch The Man Not Your Average Average Girl - Rebecca Quin.epub",
+    "90 Images/Becky Lynch The Man Not Your Average Average Girl - Rebecca Quin.epub.crdownload",
+    "90 Images/Sodabread Scones.png",
+    "10 Food/Sodabread Scones.md",
+    "10 Food/Broccoli Casserole.md",
     "10 Food/All Purpose Chicken Seasoning.md",
+    "00 Categories/Snacks.md",
+    "10 Food/White Rice.md",
+    "10 Food/Baked Chicken Breast.md",
     "90 Images/Baked Chicken Breast.png",
-    "10 Food/Baked Chicken Breast.png",
-    "90 Images/Texas Roadhouse Fry Seasoning.png",
-    "90 Images/Microfiber Towels.png",
-    "90 Images/Healthy Pancakes.png",
-    "90 Images/White Gravy.png",
+    "10 Food/Lasagna Bake.md",
+    "10 Food/Banana Bread.md",
+    "10 Food/Mashed Sweet Potatoes.md",
+    "00 Categories/Sides.md",
+    "90 Images/Mashed Sweet Potatoes.jpg",
+    "10 Food/No-Crust Cheesecake.md",
+    "20 Cleaning/Laundry Tips.md",
+    "00 Categories/Cleaning.md",
+    "20 Cleaning/Microfiber Towels.md",
+    "20 Cleaning/Carpet Spot Cleaning.md",
+    "20 Cleaning/Copper Pipe Corrosion.md",
+    "20 Cleaning/Member's Mark Heavy Duty Degreaser.md",
+    "20 Cleaning/Jewelry Cleaner.md",
+    "20 Cleaning/Garbage Disposal Cleaning.md",
+    "10 Food/PB Choc Chip Muffins.md",
+    "90 Images/French Toast.png",
+    "10 Food/French Toast.md",
+    "10 Food/PB No Bake Cookies.md",
+    "90 Images/PB No Bake Cookies.png",
+    "90 Images/Banana Bread.png",
     "90 Images/No Crust Cheesecake.png",
-    "90 Images/Peanut Butter Shake.jpg",
-    "90 Images/Recipe Images-001.zip",
-    "90 Images",
     "30 Insecticides",
     "20 Cleaning",
+    "90 Images/Yellow Fried Rice.jpg",
+    "90 Images/White Rice.jpg",
+    "90 Images/White Gravy.png",
+    "90 Images/Recipe Images-001.zip",
+    "90 Images",
     "10 Food",
     "00 Categories",
-    "www.budgetbytes.com"
+    "100 Recipes",
+    "000 Categories"
   ]
 }
