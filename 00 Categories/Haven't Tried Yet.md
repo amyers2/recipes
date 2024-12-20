@@ -17,6 +17,8 @@
 		- [Buckeye Brownies #1](https://www.livewellbakeoften.com/buckeye-brownies/)
 		- [Buckeye Brownies #2 - "healthier"](https://www.halfbakedharvest.com/healthier-buckeye-brownies/)
 		- [Perfect Brownies](https://lickthebowlgood.blogspot.com/2013/02/the-perfect-brownie.html)
+	- Pie
+		- ["Healthy" Pecan Pie](https://www.joyfulhealthyeats.com/homemade-pecan-pie-no-corn-syrup/)
 
 <!---->
 - Dinner
