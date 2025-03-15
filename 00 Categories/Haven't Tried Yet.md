@@ -33,3 +33,7 @@
 	- [Best Spices for Carrots](https://pinchspicemarket.com/blog/spices-for-carrots-best-ways-to-cook)
 	- [Flourless Apple Bread - no added sugar](https://thebakermama.com/recipes/healthy-flourless-fresh-apple-bread/)
 	- [Taco Bell's Cheesy Fiesta Potato](https://copykat.com/taco-bell-cheesy-fiesta-potatoes)
+
+<!---->
+- Snacks
+	- [Cinnamon Banana Chips](https://www.mealgarden.com/recipe/crunchy-cinnamon-baked-banana-chips/)
