@@ -46,3 +46,13 @@
 <!---->
 - Snacks
 	- [Cinnamon Banana Chips](https://www.mealgarden.com/recipe/crunchy-cinnamon-baked-banana-chips/)
+
+---
+
+<!---->
+- Lentil recipes
+	- [Chicken Lentil Soup](https://pulserecipes.com/chicken-lentil-soup-recipe/#tasty-recipes-1884-jump-target)
+	- [One Pot Lentil Tortilla Soup](https://www.veganricha.com/lentil-tortilla-soup/)
+	- [One Pot Lentil Soup](https://www.aheadofthyme.com/easy-20-minute-one-pot-lentils/) | less soupier version
+	- [Red Pasta with Lentils](https://minimalistbaker.com/spicy-red-pasta-with-lentils/#wprm-recipe-container-35367)
+	
