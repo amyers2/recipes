@@ -39,8 +39,9 @@
 	- [Best Spices for Carrots](https://pinchspicemarket.com/blog/spices-for-carrots-best-ways-to-cook)
 	- [Flourless Apple Bread - no added sugar](https://thebakermama.com/recipes/healthy-flourless-fresh-apple-bread/)
 	- [Taco Bell's Cheesy Fiesta Potato](https://copykat.com/taco-bell-cheesy-fiesta-potatoes)
-	- [Sugar Free Jam](https://thishealthykitchen.com/easy-strawberry-jam-3-ingredient/)
-		- [Sugar Free Jam](https://prettydeliciouslife.com/sugar-free-jam-3-ingredients-10-minutes/)
+	- Jams
+		- [Sugar Free Jam 1](https://thishealthykitchen.com/easy-strawberry-jam-3-ingredient/)
+		- [Sugar Free Jam 2](https://prettydeliciouslife.com/sugar-free-jam-3-ingredients-10-minutes/)
 
 <!---->
 - Snacks
