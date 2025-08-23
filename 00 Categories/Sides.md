@@ -9,6 +9,7 @@
 - [Green Bean Casserole](/10%20Food/Green%20Bean%20Casserole.md)
 - [Healthy Garlic Bread](/10%20Food/Healthy%20Garlic%20Bread.md)
 - [Mashed Sweet Potatoes](/10%20Food/Mashed%20Sweet%20Potatoes.md)
+- [Quinoa](/10%20Food/Quinoa.md)
 - [Spiced Black Beans](/10%20Food/Spiced%20Black%20Beans.md)
 - [Strawberry Jam](/10%20Food/Strawberry%20Jam.md)
 - [White Rice](/10%20Food/White%20Rice.md)

@@ -13,8 +13,9 @@ Source: *Unknown*
 - ½ tsp salt (heaping)
 - 1.75 cups water (1:1.75 rice to water ratio)
   (*This ratio seems to help make the rice a bit stickier.*)
-- Avocado oil (maybe 1 tsp)
-- Vegetables as desired
+- Optional
+	- Avocado oil (maybe 1 tsp)
+	- Vegetables as desired
 
 ## Instructions
 
@@ -22,7 +23,7 @@ Source: *Unknown*
 2. Strain ½ cup of rice at a time, wash with water, drain excess water, and pour into pan.
     1. Do this twice.
 3. Add water and salt.
-4. Add maybe a tsp of avocado oil.
+4. (Optional) Add maybe a tsp of avocado oil.
 5. Turn heat to med-high.
 6. Occasionally stir until rice starts to boil.
 7. Immediately cover the pan and turn the heat to low.
