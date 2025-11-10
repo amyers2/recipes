@@ -33,11 +33,13 @@
 	- [Cacio e Pepe (Kelly Clarkson Show)](https://www.today.com/recipes/cacio-pepe-recipe-t251620)
 	- [Chicken Fettuccine Alfredo](https://healthyfitnessmeals.com/chicken-fettuccine-alfredo/#recipe)
 	- [Garlic Cheddar Chicken Strips](https://www.theidearoom.net/garlic-cheddar-chicken-strips)
+	- [Slow Cooker Chicken Gnocchi Soup](https://partypinching.com/slow-cooker-chicken-gnocchi-soup/)
 
 <!---->
 - Sides
 	- [Best Spices for Carrots](https://pinchspicemarket.com/blog/spices-for-carrots-best-ways-to-cook)
 	- [Flourless Apple Bread - no added sugar](https://thebakermama.com/recipes/healthy-flourless-fresh-apple-bread/)
+	- [Garlic Parmesan Monkey Bread](https://partypinching.com/garlic-parmesan-monkey-bread/)
 	- [Taco Bell's Cheesy Fiesta Potato](https://copykat.com/taco-bell-cheesy-fiesta-potatoes)
 	- Jams
 		- [Sugar Free Jam 1](https://thishealthykitchen.com/easy-strawberry-jam-3-ingredient/)
