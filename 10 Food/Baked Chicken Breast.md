@@ -19,7 +19,9 @@ Source: [Original Recipe](https://insanelygoodrecipes.com/baked-chicken-breast/)
 2. Line baking dish with parchment paper.
 3. Drizzle chicken breasts in oil and rub the seasoning on both sides.
 4. Place the breasts in the prepared baking sheet.
-5. Bake for 20-25 minutes, until chicken reaches internal temp of 160 deg.
+5. Bake until chicken reaches internal temp of 160 deg.
+	- For well-thawed chicken:  20-25 minutes.
+	- For nearly-frozen chicken:  30 minutes.
 6. Let the chicken rest for 5 minutes.  Int. temperature will rise to 165 in this time.
 
 ## Reheating the Chicken
