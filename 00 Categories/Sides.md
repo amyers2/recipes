@@ -11,6 +11,6 @@
 - [Mashed Sweet Potatoes](/10%20Food/Mashed%20Sweet%20Potatoes.md)
 - [Quinoa](/10%20Food/Quinoa.md)
 - [Spiced Black Beans](/10%20Food/Spiced%20Black%20Beans.md)
-- [Strawberry Jam](/10%20Food/Strawberry%20Jam.md)
+- [Homemade Jams](10%20Food/Homemade%20Jams.md)
 - [White Rice](/10%20Food/White%20Rice.md)
 - [Yellow Fried Rice](/10%20Food/Yellow%20Fried%20Rice.md)
