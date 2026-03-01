@@ -3,6 +3,7 @@
 ---
 ## Sides Recipes
 
+- [Baked Frozen Broccoli and Cauliflower](/10%20Food/Baked%20Frozen%20Broccoli%20and%20Cauliflower.md)
 - [Banana Bread](/10%20Food/Banana%20Bread.md)
 - [Broccoli Casserole](/10%20Food/Broccoli%20Casserole.md)
 - [Cinnamon Honey Butter](/10%20Food/Cinnamon%20Honey%20Butter.md)
