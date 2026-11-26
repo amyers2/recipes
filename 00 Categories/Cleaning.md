@@ -3,6 +3,7 @@
 ---
 ## Cleaning Recipes
 
+- [Care Instructions](/20%20Cleaning/Care%20Instructions.md)
 - [Carpet Spot Cleaning](/20%20Cleaning/Carpet%20Spot%20Cleaning.md)
 - [Copper Pipe Corrosion](/20%20Cleaning/Copper%20Pipe%20Corrosion.md)
 - [Garbage Disposal Cleaning](/20%20Cleaning/Garbage%20Disposal%20Cleaning.md)
